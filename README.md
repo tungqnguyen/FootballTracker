@@ -5,5 +5,5 @@ Copy this link into your command shell and clone the project, then use Android S
 ```
 git clone https://github.com/tungqnguyen/FootballTracker.git
 ```
-#Author
+### Author
 Nguyen Quang Tung
